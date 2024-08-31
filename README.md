@@ -1,8 +1,25 @@
-# React + Vite
+Indian Sign Language Translator
+Overview
+The Indian Sign Language Translator is an AI-driven mobile application and website designed to facilitate communication between the hearing and deaf communities. It enables real-time translation of Indian Sign Language (ISL) into text and speech, and vice versa. The application also provides educational resources to help users learn ISL, bridging the gap and making interactions more inclusive.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features
+Real-Time Video to Text/Speech Conversion:
+Translates ISL gestures from live video into text and speech in multiple Indian languages.
 
-Currently, two official plugins are available:
+Text to Sign Conversion:
+Converts written text into ISL gestures, aiding in visual communication.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Voice to Sign Conversion:
+Translates spoken language into ISL gestures, supporting real-time communication.
+
+Educational Content:
+Provides video lectures and tutorials to help users learn and practice ISL.
+
+ISL Dictionary:
+Offers a comprehensive library of ISL alphabets and signs for easy lookup and learning.
+
+Quiz Section:
+Interactive quizzes designed to test and reinforce users' knowledge of ISL.
+
+User-Friendly Interface:
+An intuitive and accessible design ensures ease of use for all, including those with disabilities.
